@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog LOL
+title: Welcome to LOL my blog LOL
 
 
 
